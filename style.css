@@ -1,0 +1,169 @@
+*{ 
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+nav{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+p{
+    display: flex;
+    color: #07043B;
+
+}
+.Features{
+    display: flex;
+    gap: 20px 20px;
+}
+header{
+    margin:40px ;
+    display: flex;
+    
+    justify-content: space-between;
+    
+    form{
+        display: flex;
+    }
+.all-you{
+    padding: 10px;
+    P{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+}
+}
+h1{
+    color: #07043B;
+}
+.center{
+    background-color: #F8F8FE;
+    /* margin-top: -25px; */
+    p{
+        width: 400px;
+        margin-top: 15px;
+    }
+padding: 35px;
+}
+.fylo{
+    width: 350px;
+    height: 250px;
+    background-color: white;
+    border: solid white;
+    margin: 25px;
+    padding: 15px;
+    margin-left: -7px;
+    p{
+        width: 300px;
+    }
+    
+}
+.see{
+   a{color: #3DA08F;} 
+}
+.all{
+    display: flex;
+    background-color: #F8F8FE;
+    margin-top: -15px;
+    justify-content: space-between;
+}
+.pic{
+    display: flex;
+    img{border-radius: 50%;}
+p{font-size: 10px;}
+align-items: center;
+}
+.Kyle{
+    margin: 2px;
+    padding: 2px;
+}
+input{border-color: rgba(255, 0, 0, 0.349);
+padding: 10px;
+width: 250px;
+border-radius: 5px;}
+button{
+    margin-left: 15px;
+    text-align: center;
+    padding: 10px;
+    width: 200px;
+    background-color: #5587eccb;
+    color: #000;
+    border-radius: 5px;
+}
+.footer1{
+    padding: 50px;
+    display: flex;
+    background-color: #575988;
+    justify-content: space-between;
+    align-items: center;
+    p{ width: 400px;
+        color: white;
+        font-size: 16px;
+    }
+    get{
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+    }
+height: 200px;
+h3{
+    color: whitesmoke;
+    margin-bottom: 10px;
+}
+}
+.tob {
+    
+    display: flex;
+    flex-direction: column;
+    button{
+        width: 150px;
+        color: white;
+        margin-top: 15px;
+        margin-left: -4px;
+    
+}
+}
+.footer2{
+    background-color: #07043B;
+    height: 250px;
+   p{ color: white;
+    p{font-size: 10px;}}
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+
+}
+.email-phone{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-items: center;
+    margin-top: 15px;
+p{
+    display: flex;
+    flex-direction: column;
+    p{font-size: 10px;}
+}
+div{
+    display: flex;
+    gap: 20px 20px;
+}
+}
+.face-phone{
+    display: flex;
+    margin-top: 15px;
+    /* justify-content: center; */
+    align-items: center;
+    img{width:20px ;
+    height: 20px;}
+    gap: 20px 20px;
+
+}
